@@ -24,4 +24,4 @@ Success responses:
 ```
 
 Checkout my blog post for the story behind that code.
-https://ckaloodee.medium.com/...
+https://ckaloodee.medium.com/custom-api-responses-with-laravel-5db8c296f60
